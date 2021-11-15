@@ -1,0 +1,22 @@
+{
+  "name": "study_commander",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "smt": "bin/smt.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "14.15.3"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^8.3.0",
+    "semver": "^7.3.5"
+  }
+}
